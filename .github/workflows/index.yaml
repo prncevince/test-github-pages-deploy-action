@@ -25,5 +25,5 @@ jobs:
       with:
         branch: gh-pages
         folder: static
-        target-folder: .
+        target-folder: ./
         clean: false
